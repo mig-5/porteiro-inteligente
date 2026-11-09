@@ -1,0 +1,14 @@
+# Android / Gradle
+android-app/.gradle/
+android-app/**/build/
+android-app/local.properties
+*.apk
+*.aab
+*.iml
+.idea/
+.DS_Store
+
+# Arduino
+esp32-firmware/build/
+*.elf
+*.bin
